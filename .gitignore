@@ -5,7 +5,6 @@ __pycache__/
 
 # C extensions
 *.so
-.venv/
 
 # Distribution / packaging
 .Python
@@ -25,6 +24,9 @@ var/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Python virtual environments
+.venv/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
